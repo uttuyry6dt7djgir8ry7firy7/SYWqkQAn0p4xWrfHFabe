@@ -3,10 +3,5 @@
     "type": "day",
     "accountId": "0083457a3b03e3c35f11b7b9cb5420a705871ccc8676383f312a6fff581962f3",
     "expiration": "2025-01-09T03:45:19.015Z"
-  },
-  "cd18dde347944d3f8ff74b5041bc99d76b1dcc23433b67cf0f24b6c8b4b03ba2": {
-    "type": "dev",
-    "accountId": "6d97fa4fe2a0ea9517c9805ad93c2b8fdb97b353c1d2829b8c36dfb5911be326",
-    "expiration": "lifetime"
   }
 }
