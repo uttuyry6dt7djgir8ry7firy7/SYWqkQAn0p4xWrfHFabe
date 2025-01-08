@@ -1,5 +1,7 @@
 {
   "00a44f3afb632169322db89d52fa5b8fd993152a29efbcb3ff558f066724c054": {
-    "type": "day"
+    "type": "day",
+    "accountId": "0083457a3b03e3c35f11b7b9cb5420a705871ccc8676383f312a6fff581962f3",
+    "expiration": "2025-01-09T03:45:19.015Z"
   }
 }
